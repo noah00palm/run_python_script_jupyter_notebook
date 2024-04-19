@@ -1,4 +1,4 @@
-# run_python_script_jupyter_notebook  
+# Run Python Script in Jupyter Notebook  
 
 Install Jupyter Notebook using the following command:  
 
